@@ -2,9 +2,10 @@
 
 1. Estabelecer nome
 2. Criar repositório (Incluir README na criação) remoto com nome do projeto. Ex: sisgevs
-3. Fazer um clone para a máquina local
-4. Criar a venv e instalar os pacotes necessários nela
-5. Adicionar os pacotes utilizados no requirements.txt com o comando `pip freeze > requirements.txt`(executar sempre que instalar um novo pacote na venv)
+3. Dar acesso ao time responsavel(Padrao= Principal)
+4. Fazer um clone para a máquina local
+5. Criar a venv e instalar os pacotes necessários nela
+6. Adicionar os pacotes utilizados no requirements.txt com o comando `pip freeze > requirements.txt`(executar sempre que instalar um novo pacote na venv)
 
 # Commits
 - !!!! Antes de qualquer commit !!!
